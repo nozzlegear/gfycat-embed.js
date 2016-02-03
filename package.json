@@ -1,0 +1,20 @@
+{
+  "name": "gfycat-embed.js",
+  "version": "1.0.0",
+  "description": "A small NPM-installable package for Gfycat's embed script. All credit for gfycat-embed.js goes to Gfycat and Reddit user u/mr_poopadoop (https://www.reddit.com/r/gfycat/comments/43rjau/i_made_some_modifications_to_gfycatjs/)",
+  "main": "gfycat-embed.js",
+  "bin": "gfycat-embed.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nozzlegear/gfycat-embed.js.git"
+  },
+  "author": "Joshua Harms <joshua@nozzlegear.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nozzlegear/gfycat-embed.js/issues"
+  },
+  "homepage": "https://github.com/nozzlegear/gfycat-embed.js#readme"
+}
